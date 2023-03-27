@@ -1,5 +1,5 @@
 # MIPT course "Machine Learning". Basic Track
-[Course](https://github.com/girafe-ai/ml-course/tree/22f_basic) made by Radoslav Neychev
+[Course](https://github.com/girafe-ai/ml-course/tree/22f_basic) made by Radoslav Neychev <br>
 Tasks solved by Marfa Zakirova
 
 ## Implemented tasks
