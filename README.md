@@ -1,4 +1,4 @@
-# MIPT course "Machine Learning". Basic Track
+# MIPT course "Machine Learning". DIHT
 [Course](https://github.com/girafe-ai/ml-course/tree/22f_basic) made by Radoslav Neychev <br>
 Tasks solved by Marfa Zakirova
 
