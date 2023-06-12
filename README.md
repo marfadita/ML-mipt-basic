@@ -9,5 +9,5 @@ In this assignment, one had to implement one's own decision tree. There are nece
 ### [Neural network from scratch](https://github.com/marfadita/ML-mipt-basic/blob/main/tasks/0_05_nn_from_scratch/modules1.ipynb)
 The goal is to implement all the basic blocks of the nn in pure numpy. It means to build layers, loss functions, optimizers, etc. in the modules1.ipynb
 
-### [Lab 2: Dealing with overfitting](https://github.com/marfadita/ML-mipt-basic/blob/main/tasks/lab2/Lab2_DL_part2_overfitting.ipynb)
+### [Dealing with overfitting](https://github.com/marfadita/ML-mipt-basic/blob/main/tasks/lab2/Lab2_DL_part2_overfitting.ipynb)
 Train a FC network, overfit it, try to deal with overfitting by using regularization techniques (Dropout, Batchnorm, etc.).
